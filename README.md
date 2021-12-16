@@ -22,12 +22,12 @@ The folder **dataset** contains 3000 images and **label.csv** which gives the la
 **resnet18.pt**: This file is the saved model of the resnet18 CNN model during training when running **B_deep.ipynb**.
 
 # Required packages:
-os
-pandas
-numpy
-matplotlib
-skimage
-sklearn
-math
-torch
-PIL
+os, 
+pandas, 
+numpy, 
+matplotlib, 
+skimage, 
+sklearn, 
+math, 
+torch, 
+PIL, 
